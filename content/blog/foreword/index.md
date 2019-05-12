@@ -4,7 +4,7 @@ date: "2019-05-12T22:12:03.284Z"
 ---
 
 *Rudbek's* is about good food and good company. *Rudbek's* is also about
-philosophy and language. It is also aboud love and friendship. *Rudbek's*
+philosophy and language. It is also about love and friendship. *Rudbek's*
 is almost like Ubik but quite not so. A little bit like the Encyclopaedia
 Galactica, but not as expensive.
 
