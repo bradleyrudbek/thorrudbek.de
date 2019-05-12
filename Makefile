@@ -1,3 +1,6 @@
+clean:
+	gatsby clean
+
 build:
 	gatsby build
 
