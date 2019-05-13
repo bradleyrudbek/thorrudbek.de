@@ -48,12 +48,18 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-emoji-favicon`,
+     {
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        emoji: `🔋`,
+        name: `Rubek's`,
+        short_name: `Rudbek`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#663399`,
+        display: `minimal-ui`,
+        icon: `content/assets/rudbek-logo.png`,
       },
-    },
+     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
