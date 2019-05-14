@@ -5,7 +5,7 @@ date: 2019-05-13T13:37:00.000Z
 image: './borscht.jpg'
 ---
 
-**Rubek's** is all about good food. Today we will share one of our most 
+**Rudbek's** is all about good food. Today we will share one of our most 
 beloved recipes, for a very traditional Ukrainian dish called Borscht (the
 transliteration varies sometimes. I don't think the *t* is so strong in the
 original in Russian - Борщ, but Wikipedia [uses Borscht](https://en.wikipedia.org/wiki/Borscht) as their 
