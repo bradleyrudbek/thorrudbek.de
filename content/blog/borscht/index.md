@@ -13,7 +13,7 @@ transliteration of choice so we will stick with that).
 
 ![Borscht](./borscht.jpg)
 
-**It is not a very complex recipe to pull off**, but it cant be a bit lengthy,
+**It is not a very complex recipe to pull off**, but it can be a bit lengthy,
 especially so if you don't own a pressure cooker. We at *Rudbek's* have only
 prepared it so far in a pressure cooker, specifically in this one:
 

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Rudbek's`,
     author: `@rudbektango`,
-    description: `Rudbek's is second only to the Restaraunt at the End of the Universe.`,
+    description: `Rudbek's is second only to the Restaurant at the End of the Universe.`,
     siteUrl: `https://www.thorrudbek.de/`,
     social: {
       twitter: `rudbektango`,
