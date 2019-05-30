@@ -113,7 +113,7 @@ Finally the fun part and creative examples.
 
 I created a template that works for my needs now, based on the *Basic (and reversed card)* from default **Anki**, with a simple twist: I just added three hint fields (that show on the back and the front), with potential help of one of the languages I already master. It's not necessary to have hints in all those 3 languages, sometimes I just add English, sometimes I add other source languages, it depends on how complex the word is for me, and also the ease of translation of the concept.
 
-The verb **hegen** actually has 3 base meanings, and our old Note was using them almost interchangeably and without considering the formality of the register. We now create a note for each of these base meanings. So a note will become now three notes, which in turn will turn into 6 cards, since this Note template also does the reverse card. Also notice the 🎩 emoji. This signalises in a fun way that this is a very formal ad sophisticated register (For example, **ich hege den Verdacht, dass...** would be something like **I entertain a suspicion, that ...**).
+The verb **hegen** actually has 3 base meanings, and our old Note was using them almost interchangeably and without considering the formality of the register. We now create a note for each of these base meanings. So a note will become now three notes, which in turn will turn into 6 cards, since this Note template also does the reverse card. Also notice the 🎩 emoji. This signalises in a fun way that this is a very ormal and sophisticated register (For example, **ich hege den Verdacht, dass...** would be something like **I entertain a suspicion, that ...**).
 
 **C1 Template** ![C1 Note Template](./card041-template.png)
 
