@@ -57,9 +57,9 @@ If you end up with **Anki** in more than one device, remember to set up a [Ankiw
 ## <a name="getstart"></a>2 - Getting started with the mechanics 
 If you are as anxious as me, you will want to have the app installed and get started with cards and studying right away. After all the whole point of this endeavour is to learn a language more effectively, not spending more time studying new software and Flashcard creation methodology. But bear with me, the effort is well worth it.
 
-First I just want to emphasize the importance of **creating your own cards**. This is stressed enough on the documentation and everywhere, but the temptation of just downloading a set of cards to get started is too great. Specially so if you are studying a common enough language that will have a lot of public decks ready for consumption (looking at you, German, French, Chinese, ...). This might work for some people but for me it was a disaster. I couldn't understand where the words were coming from, and too often the approach of simply getting a list of x most frequent words and getting almost automated generated cards based on that is very naïve. There is simply no 1:1 correspondence word for word between your original language and your target language. Some words you will know already, others will you need more cards depending on the specific level of difficulty for you.
+First I just want to emphasize the importance of **creating your own cards**. This is stressed enough on the documentation and everywhere, but the temptation of just downloading a set of cards to get started is too big. Specially so if you are studying a common enough language that will have a lot of public decks ready for consumption (looking at you, German, French, Chinese, ...). This might work for some people but for me it was a disaster. I couldn't understand where the words were coming from, and too often the approach of simply getting a list of x most frequent words and getting almost automated generated cards based on that is very naïve. There is simply no 1:1 correspondence word for word between your original language and your target language. Some words you will know already, others will you need more cards depending on the specific level of difficulty for you.
 
-So be patient. I recommend you download a few public decks just to get familiarised with the mechanics, how the training works, edit and create a few cards, follow the official documentation from **Anki** to learn how to create your own Note types and customize your cards. Don't take it too seriously for now. Your first cards will probably suck and you are going to scrap it later for better cards, but you need to few comfortable with the mechanics first before going into more advanced steps.
+So be patient. I recommend you download a few public decks just to get familiarised with the mechanics, how the training works, edit and create a few cards, follow the official documentation from **Anki** to learn how to create your own Note types and customize your cards. Don't take it too seriously for now. Your first cards will probably suck and you are going to scrap it later for better cards, but you need to feel comfortable with the mechanics first before going into more advanced steps.
 
 
 ### <a name="topics"></a>2.1 - Topics you should study
@@ -83,7 +83,7 @@ The tutorials mention the [minimum information principle](http://www.supermemo.c
 
 **Template** ![Bad Card 3.1 - Template](./card031-template.png)
 
-Let's break it down and analyse everything that is wrong with this card. First, the template for the Note is horrible. I got excited with adding Hints when I saw this feature on the Anki manual, and started abusing it. It at first seemed like a good idea, to have a Front Hint and a Back Hint. The idea would be that I would have the definition of my word in my target language in the back of the card, Front Hint would be a phrase using the word, whereas Back Hint could be the English translation.
+Let's break it down and analyse everything that is wrong with this card. First, the template for the Note is horrible. I got excited with adding Hints when I saw this feature on the Anki manual, and started abusing it. It at first seemed like a good idea, to have a Front Hint and a Back Hint. The idea would be that I would have the definition of my word in my target language on the back of the card, Front Hint would be a phrase using the word, whereas Back Hint could be the English translation.
 
 This is a horrible card because it is simply too much information to expect you to memorise in one go. A good Flashcard will try to mimic the process by which your own brain stores information, which is in very small bite sized pieces. 
 
@@ -113,7 +113,7 @@ Finally the fun part and creative examples.
 
 I created a template that works for my needs now, based on the *Basic (and reversed card)* from default **Anki**, with a simple twist: I just added three hint fields (that show on the back and the front), with potential help of one of the languages I already master. It's not necessary to have hints in all those 3 languages, sometimes I just add English, sometimes I add other source languages, it depends on how complex the word is for me, and also the ease of translation of the concept.
 
-The verb **hegen** actually has 3 base meanings, and our old Note was using them almost interchangeably and without considering the formality of the register. We now create a note for each of these base meanings. So a note will become now three notes, which in turn will turn into 6 cards, since this Note template also does the reverse card. Also notice the 🎩 emoji. This signalises in a fun way that this is a very ormal and sophisticated register (For example, **ich hege den Verdacht, dass...** would be something like **I entertain a suspicion, that ...**).
+The verb **hegen** actually has 3 base meanings, and our old Note was using them almost interchangeably and without considering the formality of the register. We now create a note for each of these base meanings. So a note will become now three notes, which in turn will turn into 6 cards, since this Note template also does the reverse card. Also notice the 🎩 emoji. This signalises in afun way that this is a very ormal and sophisticated register (For example, **ich hege den Verdacht, dass...** would be something like **I entertain a suspicion, that ...**).
 
 **C1 Template** ![C1 Note Template](./card041-template.png)
 
@@ -140,7 +140,7 @@ I am also coupling this with another fun component, which is translating obscure
 
 ![Quem planta sacanagem, colhe solidão](./latino.png)
 
-I then translated it into German, (**Wer Schweinerei sät, wird Einsamkeit ernten**), which was already fun in it self, and removed the two nouns individually creating two Notes, with type Basic with type-in, such as the one below:
+I then translated it into German, (**Wer Schweinerei sät, wird Einsamkeit ernten**), which was already fun in itself, and removed the two nouns individually creating two Notes, with type Basic with type-in, such as the one below:
 
 ![Latino type-in](./latino-typein.png)
 
@@ -164,9 +164,9 @@ Another awesome resource I found recently is the [www.freesound.org](https://www
 For this card I used a [toilet flushing sound](https://freesound.org/people/flunkspagnargel/sounds/238541/) I found on [www.freesound.org](https://www.freesound.org). In this particular card I have the sound and image together, but I have other cards with different combinations, for example on one side just the sound, on the other the image and the word.
 
 ### <a name="pics"></a>4.6 - Creative use of pictures
-I was one time checking my answers to a language exercise on propositions in German, and by mistake looked at the wrong part of the Lösungsbuch. It was about where Hans was placing his Fahrrad, and according to my wrong lookup it turns out he was putting it above his bed. That sounded a little weird to me, but when I realised the mistake I decided to create an image Flashcard based on this, because such a scene (bicycle stored over the bed) increases the memorability of a card.
+I was one time checking my answers to a language exercise on propositions in German, and by mistake looked at the wrong part of the *Lösungsbuch*. It was about where Hans was placing his Fahrrad, and according to my wrong lookup it turns out he was putting it above his bed. That sounded a little weird to me, but when I realised the mistake I decided to create an image Flashcard based on this, because such a scene (bicycle stored over the bed) increases the memorability of a card.
 
-I am not Gimp wizard, but after struggling a bit I came up with cards like this:
+I am not a Gimp wizard, but after struggling a bit I came up with cards like this:
 
 ![das Fahrrad steht über dem Bett auf dem Dachboden](./fahrrad.png)
 
