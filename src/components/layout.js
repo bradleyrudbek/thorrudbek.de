@@ -76,8 +76,11 @@ class Layout extends React.Component {
 	     WTFPL
             </a>
 	 {' '}· <Link to="/privacy/">Privacy</Link> ·{' '}
-          <Link to="/patrons/">Be a Patron</Link>	
-	  </small>
+          <Link to="/patrons/">Be a Patron</Link> {' '}	
+	 · {' '}
+	   <a href="https://brave.com/tho054">Get Brave</a>
+	    
+	    </small>
 	</footer>
       </div>
     )
