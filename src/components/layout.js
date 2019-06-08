@@ -71,16 +71,15 @@ class Layout extends React.Component {
 	   <a href="https://github.com/bradleyrudbek/thorrudbek.de">
             Suggest edit
            </a>
-	  {' '}·{' '}
+	   {' '}·{' '}
 	   <a href="http://www.wtfpl.net/about/">
 	     WTFPL
             </a>
-	 {' '}· <Link to="/privacy/">Privacy</Link> ·{' '}
-          <Link to="/patrons/">Be a Patron</Link> {' '}	
-	 · {' '}
-	   <a href="https://brave.com/tho054">Get Brave</a>
-	    
-	    </small>
+	   {' '}· <Link to="/privacy/">Privacy</Link> ·{' '}
+            <Link to="/patrons/">Be a Patron</Link> {' '}	
+	   · {' '}
+	   <a href="https://brave.com/tho054">Get Brave</a>🦁
+	  </small>
 	</footer>
       </div>
     )
