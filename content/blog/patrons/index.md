@@ -10,7 +10,7 @@ As you can see on the footer of this website, all the content here is licensed u
 
 This website has zero-tracking tools (not even cookies) and no ads-whatsoever. I do this because I believe the old model where content producers are monetised via invasive ads has turned the web into a mess. I have been using [Brave](https://www.brave.com 'Brave browser') as my main Browser for a while. It shows an interesting panel every time you open it:
 
-![Brave Panel on my Desktop](../assets/bravesave.png)
+![Brave Panel on my Desktop](../../assets/bravesave.png)
 
 Over a few weeks, it has blocked almost **40.000** ads and **4.000** trackers. And this is just in **one** of the computers I use. This is hideous not only from the perspective of being tracked almost 50k times, but also on the sheer waste of resources (bandwidth, computer processing power and memory, time).
 
