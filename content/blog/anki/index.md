@@ -36,6 +36,8 @@ in any language, and [forvo.com](https://www.forvo.com) has native speakers pron
 
 This is this context in which I came across **Anki**. Based on the principles of *Active Recall Testing* and *Spaced Repetition*, it is a revolutionary tool for learning new things, in an *effective* manner. This post is not about preaching the benefits of **Anki** and even an extensive introduction to **Anki** is outside the scope of what I want to cover here. Check out the very good [Anki Manual](https://apps.ankiweb.net/docs/manual.html) for the mechanics of how to use the software, and also familiarize yourself with the [Twenty rules for formulating knowledge](http://www.supermemo.com/articles/20rules.htm). 
 
+**2019-11-06 Update**: If you are new to Anki check this awesome Anki Guide for beginners: [How to Use Anki: Anki Tutorial for Beginners](https://improveism.com/how-to-use-anki-tutorial/).
+
 **Anki** is pretty easy to use, and in no time you can start creating your own cards and training on new vocabulary. Even though the **mechanics** of cards creation is pretty simple, the correct and **effective** use of Flashcards takes a bit of practice and thought. What I have seen too often, is people creating terrible Flashcards (my self included), instead of learning how to create them properly first. So what I wanted to do is to share my experience built after trial and error and thousands of created cards, to shortcut you directly into creating awesome cards instead of having to learn this the hard away after hundreds of crappy cards and ineffective learning.
 
 ## <a name="expec"></a>0.1 - What to expect from this guide
