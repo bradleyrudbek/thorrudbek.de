@@ -6,7 +6,6 @@ description: Review of a book by Youtuberin Dana Newman, on the challenges of le
 
 I've just finished reading _You Go Me on the Cookie_ (2019) by [Youtuberin](https://www.youtube.com/wantedadventure) [Dana Newman](https://www.dananewman.de/). 
 
-
 [![You go me on the cookie](./danabook.png)](https://www.randomhouse.de/Taschenbuch/You-go-me-on-the-cookie/Dana-Newman/Goldmann-TB/e536279.rhd "You Go me on the Cookie Book")
 
 Even though I knew her YouTube channel already I didn't know about her book, and found it by chance while browsing the German language session in a bookstore in Berlin. The main theme of the book is supposed to be the challenges of learning German as a second language, and as a student of German as a foreign language for a while now, I always missed this kind of book - so I purchased it right away in excitement. Surprisingly enough there is a scarcity of materials on this theme (that I could find). 
