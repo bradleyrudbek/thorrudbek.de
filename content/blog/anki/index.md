@@ -127,7 +127,7 @@ Notice that these Note/cards will only teach you the base meaning of the word, b
 
 **Paired translation Note** ![Reverso](./card042-reverso.png)
 
-Their translations are not extremely curated though, so be careful and check. In this case for example, **nach wie vor** was simply missing from the translation and I added it manually when creating the card (**still**).
+Their translations are not always accurate though, so be careful and check. In this case for example, **nach wie vor** was simply missing from the translation and I added it manually when creating the card (**still**).
 
 Now instead of a single Note and one card for learning the multiple meanings of **hegen** and their contextual examples, we would have at least 12 different cards to study, covering different usages and contexts. This also allows you to learn them at different pace and speed. As an added bonus, you will see that I coloured the bits in my translation pairs to show which words in my target language correspond to my main language. This allows you to learn not only the target word (in blue in this case, **hegen**), but also learn other words and structures as well!
 
