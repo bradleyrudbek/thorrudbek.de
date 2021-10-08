@@ -23,6 +23,14 @@ I recommend supporting them on [Patreon](https://www.patreon.com/easygerman) to 
 
 __Personal Goal__: Watch one YouTube video every day and do the exercises on Seedlang. Also, listen to the Podcast every week.
 
-## 3) Placeholder
+## 3) Read a novel in German
 
-To be updated soon.
+Read 2 pages of a novel in German. Together with the Audio book. And/or just the Audio Book for 20 minutes. Suggested by [Emanuel](https://yourdailygerman.com/about/).
+
+## 4) Read a technical Book or article in German
+
+Also 2 pages a day. Anything in Data Science or related IT-field.
+
+## 5) placeholder
+To be updated soon. Was sonst noch...?
+
