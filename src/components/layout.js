@@ -2,6 +2,8 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import { StaticImage } from "gatsby-plugin-image"
+
 
 class Layout extends React.Component {
   render() {
@@ -11,14 +13,24 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
+	<h1
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
         >
-          <Link
+            <StaticImage
+              src='../../content/assets/rudbek-embossed-de.png'
+              alt='Logo-de'
+              placeholder="blurred"
+              layout="fixed"
+              width={50}
+              height={50}
+            />
+
+
+	<Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -28,6 +40,7 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
+
         </h1>
       )
     } else {
